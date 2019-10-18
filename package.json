@@ -1,0 +1,19 @@
+{
+  "name": "@sh1okoh/helloworld",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh1okoh/sand-box.git"
+  },
+  "author": "Koki Shiozawa <kooooo.0719task@gmail.com> (https://sh1okoh.hatenablog.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sh1okoh/sand-box/issues"
+  },
+  "homepage": "https://github.com/sh1okoh/sand-box#readme"
+}
