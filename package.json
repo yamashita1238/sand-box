@@ -1,0 +1,19 @@
+{
+  "name": "@prololo/sand-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamashita1238/sand-box.git"
+  },
+  "author": "Tatsuya Yamashita <ta.yamashita@opt.ne.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamashita1238/sand-box/issues"
+  },
+  "homepage": "https://github.com/yamashita1238/sand-box#readme"
+}
